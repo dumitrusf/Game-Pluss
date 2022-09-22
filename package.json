@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  },
+  
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  },
+  "name": "ecf-de-entrainement-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass": "rm -rf ./src/assets/styles/css & sass --watch ./src/assets/styles/scss:./src/assets/styles/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumitrusf/Game-Pluss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumitrusf/Game-Pluss/issues"
+  },
+  "homepage": "https://github.com/dumitrusf/Game-Pluss",
+  "description": ""
+}
