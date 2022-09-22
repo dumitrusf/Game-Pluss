@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+# folder vscode ignored
 .vscode/
-=======
-.vscode/
->>>>>>> 6bbab29 (adding gitignore for .vscode/)
+
+# node modules ignored
+node_modules/
